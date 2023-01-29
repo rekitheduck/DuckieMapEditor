@@ -1,0 +1,15 @@
+# Directories to ignore
+.vs
+build/
+build-vscode/
+
+# Files to ignore
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+*.bsp
+
+# Linux: Makefiles :)
+Makefile
