@@ -1,5 +1,6 @@
 # Directories to ignore
 .vs
+.vscode
 build/
 build-vscode/
 
